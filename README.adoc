@@ -1,0 +1,22 @@
+= Weekly team lead report (Research)
+First Milestone - Software Design - INSO 4115
+Prof. Marko Schütz 
+:doctype: book
+
+== Summary
+
+
+== Team Performance
+
+== Moving Foward
+
+== Tool Comparisons
+
+
+[cols="3,2,5",options="header"]
+|===
+| Student| GitHub username | Tasks
+| Kaysha L. Pagan López | link:https://github.com/Kay9876[@Kay9876] | 
+| Juan R. Rivera Rodríguez | link:https://github.com/JRRR0912[@JRRR0912] | 
+| Julian A. Vivas Gandarillas | link:https://github.com/julivivas[@julivivas] | 
+|===
